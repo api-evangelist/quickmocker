@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://quickmocker.com
 common:
+  - type: DomainSecurity
+    url: security/quickmocker-domain-security.yml
   - type: Website
     url: https://quickmocker.com
   - type: PublicAPIsListing
